@@ -69,31 +69,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathWintruff&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+![Metrics](https://metrics.lecoq.io/MathWintruff?template=classic&base.hireable=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html&languages.limit=12&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon)
+  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MathWintruff&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=729z6n6fy2eh5q4iepzgb0ynh&cover_image=true&theme=default" /></div>
 
-</td></tr></table>  
-
-<br/>  
-
-<div align="left"></div>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MathWintruff&&style=flat-square)  
-  
-
-<br/>  
-
-![Metrics](https://metrics.lecoq.io/MathWintruff?template=classic&base.hireable=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html&languages.limit=12&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.display=columns)
-  
-
+</td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
