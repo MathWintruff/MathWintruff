@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Matheus Wintruff!  
+## Hey there, I'm Matheus Wintruff!  
   
 
 <a href="https://github.com/MathWintruff" target="_blank">
@@ -15,10 +15,25 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+Computer engineer with a graduation in Embedded Systems, software engineering and internet of things.
+Fan of electronics, making projects since young. Has affinity with micro-controllers and programming, with a multidisciplinary profile always seeks creative ways of solving problems.  
   
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+![Metrics](https://metrics.lecoq.io/MathWintruff?template=classic&base.indepth=true&base.hireable=true&base.community=0&base.repositories=0&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.ignored=html%2C%20CSS&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
+  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=729z6n6fy2eh5q4iepzgb0ynh&cover_image=true&theme=default" /></div>
+
+</td></tr></table>  
 
 <br/>  
 
@@ -61,21 +76,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-![Metrics](https://metrics.lecoq.io/MathWintruff?template=classic&base.hireable=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html&languages.limit=12&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon)
-  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=729z6n6fy2eh5q4iepzgb0ynh&cover_image=true&theme=default" /></div>
-
 </td></tr></table>
 <br />
+
+----
