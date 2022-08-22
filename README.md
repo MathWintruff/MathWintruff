@@ -80,4 +80,4 @@ Fan of electronics, making projects since young. Has affinity with micro-control
 <br />
 
 ----
-![](https://raw.githubusercontent.com/MathWintruff/MathWintruff/output/github-snake-dark.svg?palette=github-dark)
+![](https://raw.githubusercontent.com/MathWintruff/MathWintruff/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
