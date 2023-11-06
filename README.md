@@ -1,5 +1,4 @@
 ## Hey there, I'm Matheus Wintruff!  
-  
 
 <a href="https://github.com/MathWintruff" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,32 +14,22 @@
 
 
 ### Glad to see you here!  
-Computer engineer with a graduation in Embedded Systems, software engineering and internet of things.
-Fan of electronics, making projects since young. Has affinity with micro-controllers and programming, with a multidisciplinary profile always seeks creative ways of solving problems.  
+Computer engineer graduated, with graduation in Embedded Systems, software engineering, and Internet of Things (Computer Engineer at University Santa Cecília - 2021). 
+<br/>
+Fan of electronics, making projects since young. Has affinity with microcontrollers and programming, with a multidisciplinary profile, always seeks creative ways of solving problems.
   
 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats  / Languages and Tools
 
+<table><tbody><tr><td rowspan=4 valign="top" width="65%">
+  
 ![Metrics](https://metrics.lecoq.io/MathWintruff?template=classic&base.indepth=true&base.hireable=true&base.repositories=0&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.ignored=html%2C%20CSS&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
-  
+</td></tr>
 
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=729z6n6fy2eh5q4iepzgb0ynh&cover_image=true&theme=default" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<table><tr><td valign="top" width="33%">
-
+<tr><td valign="top" width="35%">
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -52,7 +41,8 @@ Fan of electronics, making projects since young. Has affinity with micro-control
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr>
+<tr><td valign="top" width="35%">
 
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
@@ -65,7 +55,8 @@ Fan of electronics, making projects since young. Has affinity with micro-control
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr>
+<tr><td valign="top" width="35%">
 
 <div align="center">  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
@@ -76,8 +67,6 @@ Fan of electronics, making projects since young. Has affinity with micro-control
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </div>
 
-</td></tr></table>
-<br />
+</td></tr></tbody></table>
 
 ----
-![](https://raw.githubusercontent.com/MathWintruff/MathWintruff/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
