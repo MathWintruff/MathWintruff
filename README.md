@@ -17,7 +17,18 @@
 Computer engineer graduated, with graduation in Embedded Systems, software engineering, and Internet of Things (Computer Engineer at University Santa Cecília - 2021). 
 <br/>
 Fan of electronics, making projects since young. Has affinity with microcontrollers and programming, with a multidisciplinary profile, always seeks creative ways of solving problems.
-  
+
+
+### Favorite Quotes:
+
+“Hoje a programação é uma corrida entre os engenheiros de software para tentar construir maiores e melhores programas à prova de idiotas, e o Universo tentando produzir maiores e melhores idiotas. Até agora, o Universo está ganhando.”
+<br><Strong>Rich Cook</Strong>
+
+“Nove pessoas não podem fazer um bebê em um mês.”
+<br><Strong>Fred Brooks</Strong>
+
+“Antes do software poder ser reutilizável ele primeiro tem de ser utilizável.” 
+<br><Strong>Ralph Johnson</Strong>
 
 <br/>  
 
